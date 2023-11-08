@@ -94,3 +94,14 @@ Use hífens e colunas para definir a formatação da tabela.
 | ----------- | ----------- |
 |     Dado 1  |  Dado 3     |
 |     Dado 2  |  Dado 4     |
+
+
+
+# Para lista de tarefas:
+
+Use - [ ] para criar uma lista de tarefas não marcadas.
+Use - [x] para criar uma lista de tarefas marcadas.
+
+## Exemplo:
+- [x] Tarefa finalizada!
+- [ ] Tarefa Incompleta.
