@@ -70,7 +70,7 @@ Use três ou mais hífens (---) ou asteriscos (***) para criar uma linha horizon
 
 
 
-Para Código:
+# Para Código:
 
 User crases (`) para inserir código inline.
 Use três crases (```) para criar blocos de código.
@@ -83,3 +83,14 @@ Use crases (\`) para inserir código `inline`.
   idade = 18
   print(f"A Idade é {idade}")
 ```
+
+
+# Para tabelas
+
+Crie tabelas com barras verticais (|) para separar colunas.
+Use hífens e colunas para definir a formatação da tabela.
+
+| Cabeçalho 1 | Cabeçalho 2 |
+| ----------- | ----------- |
+|     Dado 1  |  Dado 3     |
+|     Dado 2  |  Dado 4     |
