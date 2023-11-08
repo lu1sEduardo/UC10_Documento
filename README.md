@@ -67,3 +67,21 @@ User > texto para criar uma citação em bloco.
 Use três ou mais hífens (---) ou asteriscos (***) para criar uma linha horizontal.
 
 ---
+
+
+
+Para Código:
+
+User crases (`) para inserir código inline.
+Use três crases (```) para criar blocos de código.
+
+Use crases (\`) para inserir código `inline`.
+
+`print("Mostre uma mensagem)`
+
+---
+
+  idade = 18
+  print(f"A Idade é {idade}")
+
+---
