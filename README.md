@@ -37,3 +37,17 @@ Para Links:
 Para Imagens:
 
 ![Imagem](https://github.com/lu1sEduardo/UC10_Documento/blob/main/download.jfif)
+
+
+
+Para Enfases:
+
+Italico -> *texto em italico* ou _texto em italico_
+
+Negrito -> **texto em negrito** ou __texto em negrito__
+
+Tachado -> ~~texto em taxado~~
+
+Subscrito -> Aqui vai o texto em <sub> subscrito </sub>
+
+Sobrescrito -> Aqui vai o texto em <sup> sobrescrito </sup>
