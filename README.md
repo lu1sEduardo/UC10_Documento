@@ -111,3 +111,15 @@ Use - [x] para criar uma lista de tarefas marcadas.
 # Para referências:
 
 [Página 2 da Documentação](Pagina.md)
+
+
+
+# Notas de rodapé
+
+Aqui é um exemplo de marcação em rodapé[^1].
+
+A aula de hoje é com o Prof Ricardo[^2].
+
+[^1]: Rodapé: conteúdo inferior do documento.
+[^2]: Ricardo: Professor da turma de Git.
+  Aqui uma outra linha.
