@@ -105,3 +105,9 @@ Use - [x] para criar uma lista de tarefas marcadas.
 ## Exemplo:
 - [x] Tarefa finalizada!
 - [ ] Tarefa Incompleta.
+
+
+
+# Para referências:
+
+[Página 2 da Documentação](Pagina.md)
