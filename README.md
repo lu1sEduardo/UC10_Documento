@@ -8,7 +8,7 @@ Aqui vai um paragrafo.
 
 
 
-Lista não-ordenada -> (*, -, +)
+# Lista não-ordenada -> (*, -, +)
 
 * item 1
 * item 2
@@ -16,7 +16,7 @@ Lista não-ordenada -> (*, -, +)
 
 
 
-Lista ordenada -> número + informação que vc deseja.
+# Lista ordenada -> número + informação que vc deseja.
 
 1. Olá!
 2. Oi.
@@ -28,19 +28,19 @@ Lista ordenada -> número + informação que vc deseja.
 
 
 
-Para Links:
+# Para Links:
 
 [Meu GitHub](https://github.com/lu1sEduardo/UC10_Documento)
 
 
 
-Para Imagens:
+# Para Imagens:
 
 ![Imagem](https://github.com/lu1sEduardo/UC10_Documento/blob/main/download.jfif)
 
 
 
-Para Enfases:
+# Para Enfases:
 
 Italico -> *texto em italico* ou _texto em italico_
 
@@ -51,3 +51,14 @@ Tachado -> ~~texto em taxado~~
 Subscrito -> Aqui vai o texto em <sub> subscrito </sub>
 
 Sobrescrito -> Aqui vai o texto em <sup> sobrescrito </sup>
+
+
+
+# Citações em bloco:
+
+User > texto para criar uma citação em bloco.
+
+> Isso é uma citação em bloco.
+
+
+
