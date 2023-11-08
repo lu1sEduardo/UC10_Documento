@@ -123,3 +123,18 @@ A aula de hoje é com o Prof Ricardo[^2].
 [^1]: Rodapé: conteúdo inferior do documento.
 [^2]: Ricardo: Professor da turma de Git.
   Aqui uma outra linha.
+
+
+
+# Para Alertas
+> **Note**
+> Esta é uma nota
+
+> [!NOTE]
+> Destaca informações que os usuários devem levar em consideração, mesmo durante a leitura superficial.
+
+> [!IMPORTANT]
+> Informações cruciais necessárias para o sucesso dos usuários.
+
+> [!WARNING]
+> Conteúdo crítico que exige atenção imediata do usuário devido a riscos potenciais.
