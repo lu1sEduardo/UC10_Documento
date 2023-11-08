@@ -77,11 +77,9 @@ Use três crases (```) para criar blocos de código.
 
 Use crases (\`) para inserir código `inline`.
 
-`print("Mostre uma mensagem)`
+`print("Mostre uma mensagem")`
 
----
-
+```
   idade = 18
   print(f"A Idade é {idade}")
-
----
+```
