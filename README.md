@@ -8,7 +8,7 @@ Aqui vai um paragrafo.
 
 
 
-Lista não-ordenada -> (", -, +)
+Lista não-ordenada -> (*, -, +)
 
 * item 1
 * item 2
