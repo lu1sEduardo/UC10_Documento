@@ -72,7 +72,7 @@ Use três ou mais hífens (---) ou asteriscos (***) para criar uma linha horizon
 
 # Para Código:
 
-User crases (`) para inserir código inline.
+Use crases (`) para inserir código inline.
 Use três crases (```) para criar blocos de código.
 
 Use crases (\`) para inserir código `inline`.
